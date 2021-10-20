@@ -1,0 +1,19 @@
+{
+  "name": "upload-script",
+  "version": "1.0.1",
+  "description": "Projeto em desenvolvimento",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firestore-export-import": "^0.17.0"
+  }
+}

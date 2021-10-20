@@ -1,0 +1,71 @@
+[ { 
+    "produto": "camiseta guns and roses",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 2522,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta oasis",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 2522,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta metallica",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 2522,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+
+},
+
+{
+    "produto": "camiseta slipknot",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 2522,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta legião urbana",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 256,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta capital inicial",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 452,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta caramelos de cianuro",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 664,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta ac/dc",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 874,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta iron maiden",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 965,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+},
+
+{
+    "produto": "camiseta artic monkeys",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "Estoque": 854,
+    "cores": ["preto", "branco", "azul", "vermelho"]
+}
+]
